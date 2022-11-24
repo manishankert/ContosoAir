@@ -1,6 +1,7 @@
+[![Build Status](https://dev.azure.com/ForwardEdgeAIDevOps/CI_CD_Setup_POC/_apis/build/status/manishankert.ContosoAir?branchName=master)](https://dev.azure.com/ForwardEdgeAIDevOps/CI_CD_Setup_POC/_build/latest?definitionId=1&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-[![Build Status](https://dev.azure.com/ForwardEdgeAIDevOps/CI_CD_Setup_POC/_apis/build/status/manishankert.ContosoAir?branchName=master)](https://dev.azure.com/ForwardEdgeAIDevOps/CI_CD_Setup_POC/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
